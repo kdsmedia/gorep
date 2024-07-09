@@ -1,4 +1,4 @@
-# Frontend - TikTok Report Tool
+# Frontend - TikTok Magic Gorep
 
 Ini adalah frontend untuk alat laporan TikTok yang memungkinkan pengguna untuk mencari akun TikTok dan memilih metode laporan.
 

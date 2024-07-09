@@ -91,8 +91,8 @@
 ## Penjelasan Proses Penggunaan
 - Cari Akun TikTok
 - Masukkan URL atau username akun TikTok yang ingin Anda laporkan di formulir yang tersedia.
- -Pilih Metode Report
- -Pilih salah satu metode laporan: Mass Report atau Spam Report.
+- Pilih Metode
+- Pilih salah satu metode laporan: Magic atau Goreo.
 - Proses Laporan
 
 **Jika memilih Mass Report, sistem akan menghasilkan 20 akun fake dan melakukan laporan otomatis terhadap akun target.

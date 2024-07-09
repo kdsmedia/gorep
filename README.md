@@ -20,20 +20,23 @@
 ## Clone Repository
 ## Buka Command Prompt atau PowerShell dan jalankan perintah berikut untuk meng-clone repositori ke komputer Anda:
 
-   ``` git clone https://github.com/kdsmedia/gorep.git```
-   ```cd gorep```
+``` 
+   git clone https://github.com/kdsmedia/gorep.git
+   cd gorep
+```
    
 ## Instal Dependensi Backend
 ## Pindah ke folder backend dan instal dependensi dengan perintah:
-
-   ```Salin kode```
-   ```cd backend```
-   ```npm install```
-
+```
+   cd backend
+   npm install
+```
 ## Jalankan Server Backend
 ## Jalankan server backend dengan perintah:
 
-   ```npm start```
+```
+   npm start
+```
 
 ## Buka Frontend
 ## Buka frontend/index.html di browser Anda untuk mengakses antarmuka pengguna.

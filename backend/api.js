@@ -45,7 +45,7 @@ app.post('/search', async (req, res) => {
 app.post('/report', async (req, res) => {
     const { url, method } = req.body;
     const username = url.split('/').pop();
-    const fakeAccounts = generateFakeAccounts(20); // Generate 20 fake accounts
+    const fakeAccounts = generateFakeAccounts(100); // Generate 100 fake accounts
 
     let logs = [];
 

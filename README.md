@@ -20,7 +20,7 @@
 ## Clone Repository
 ## Buka Command Prompt atau PowerShell dan jalankan perintah berikut untuk meng-clone repositori ke komputer Anda:
 
-   ``` git clone https://github.com/kdsmedia/gorep.git``
+   ``` git clone https://github.com/kdsmedia/gorep.git```
    ```cd gorep```
    
 ## Instal Dependensi Backend

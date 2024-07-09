@@ -1,4 +1,4 @@
-# TikTok Report Tool Backend
+# TikTok Magic Gorep Backend
 
 Backend untuk alat laporan TikTok yang memungkinkan pengguna untuk mencari akun TikTok dan memilih metode laporan untuk melakukan report masal atau spam.
 

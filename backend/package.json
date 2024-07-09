@@ -1,7 +1,7 @@
 {
-  "name": "tiktok-report-tool",
+  "name": "TikTok Magic Gorep",
   "version": "1.0.0",
-  "description": "Alat untuk melaporkan akun TikTok menggunakan metode report masal atau report spam.",
+  "description": "TikTok Magic Gorep menyulap akun tiktok menjadi canggih.",
   "main": "api.js",
   "scripts": {
     "start": "node api.js"
@@ -10,6 +10,6 @@
     "express": "^4.18.2",
     "node-fetch": "^3.3.1"
   },
-  "author": "Your Name",
+  "author": "Sidhanie",
   "license": "MIT"
 }

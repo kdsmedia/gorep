@@ -89,11 +89,11 @@
 ## Buka frontend/index.html di browser Anda untuk mengakses antarmuka pengguna.
 
 ## Penjelasan Proses Penggunaan
-1.Cari Akun TikTok
-2Masukkan URL atau username akun TikTok yang ingin Anda laporkan di formulir yang tersedia.
-3.Pilih Metode Report
-4.Pilih salah satu metode laporan: Mass Report atau Spam Report.
-5.Proses Laporan
+- Cari Akun TikTok
+- Masukkan URL atau username akun TikTok yang ingin Anda laporkan di formulir yang tersedia.
+ -Pilih Metode Report
+ -Pilih salah satu metode laporan: Mass Report atau Spam Report.
+- Proses Laporan
 
 **Jika memilih Mass Report, sistem akan menghasilkan 20 akun fake dan melakukan laporan otomatis terhadap akun target.
 Jika memilih Spam Report, sistem akan menghasilkan 20 akun fake dan melakukan laporan spam terhadap akun target.

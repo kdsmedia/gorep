@@ -9,12 +9,20 @@ Backend untuk alat laporan TikTok yang memungkinkan pengguna untuk mencari akun 
 
 1. **Clone Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/tiktok-report-tool.git
-   cd tiktok-report-tool/backend
-# Install depensesis
-npm install
-# Jalankan
-npm start
+```
+   git clone https://github.com/kdsmedia/gorep.git
+   cd gorep/backend
+```
 
-Server akan berjalan di http://localhost:3000.
+# Install depensesis
+```
+   npm install
+```
+
+# Jalankan
+
+```
+   npm start
+```
+
+## Server akan berjalan di http://localhost:3000.

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TikTok Report Tool</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Alat Laporan TikTok</h1>
+            <p>Masukkan URL atau Username Akun TikTok untuk mencari dan melaporkan spam.</p>
+        </header>
+        
+        <main>
+            <form id="search-form">
+                <label for="tiktok-url">Masukkan URL atau Username TikTok:</label>
+                <input type="text" id="tiktok-url" name="tiktok-url" placeholder="https://www.tiktok.com/@username" required>
+                <button type="submit">Cari Akun</button>
+            </form>
+            
+            <div id="result-container" class="hidden">
+                <div id="search-result">
+                    <!-- Hasil pencarian akan ditampilkan di sini -->
+                </div>
+                <form id="report-form" class="hidden">
+                    <label for="report-method">Pilih Metode Report:</label>
+                    <select id="report-method" name="report-method" required>
+                        <option value="">Pilih Metode</option>
+                        <option value="mass_report">Report Masal (Fake Akun)</option>
+                        <option value="spam_report">Report Spam (Fake Akun)</option>
+                    </select>
+                    <button type="submit">Lakukan Report</button>
+                </form>
+            </div>
+            
+            <div id="process-container" class="hidden">
+                <pre id="process-log"></pre>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2024 TikTok Report Tool. All rights reserved.</p>
+        </footer>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
